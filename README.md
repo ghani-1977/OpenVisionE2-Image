@@ -1,4 +1,4 @@
-# Download OpenVisionE2 Test Image
+# Download OpenVisionE2 Image
 * ARM/MIPS/SH4 by Ghani®
 # 
 
