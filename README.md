@@ -1,5 +1,3 @@
-![openvision](https://user-images.githubusercontent.com/10188931/134442423-e8f91aa1-d8b2-492b-b595-392ccc1f6aa5.jpg)
-
 # Download OpenVisionE2 Image
 * ARM/MIPS/SH4 by Ghani®
 # 
